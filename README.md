@@ -1,4 +1,4 @@
-## Como rodar
+## Como executar
 
 ### Instale os pacotes
 
